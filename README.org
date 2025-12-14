@@ -1,0 +1,2 @@
+# Notebook
+Small notes about life and work
