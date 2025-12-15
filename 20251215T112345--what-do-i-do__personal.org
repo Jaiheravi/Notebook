@@ -1,0 +1,68 @@
+#+title:      What do I do
+#+date:       [2025-12-15 Mon 11:23]
+#+filetags:   :personal:
+#+identifier: 20251215T112345
+
+* What do I do
+
+It's difficult to assign a title oneself when there are different things that one has done, is doing, and wants to do.
+
+In the past, If I has to assign a title based on the things that I have done professionally, I'd be a web developer; even though aesthetic work has been part of it, I wouldn't call myself a designer before.
+
+At the present, most of the time I've been doing web development and design as well, both professionally. So I could have the title of Web Developer and Designer. Even though I don't really do a lot of visual design, I mostly do text-based design.
+
+For the future, I've assigned myself the title of "Programmer & Typographer". At the core of my being, I want to discover, learn, and create things that are fundamentally true, a programmer could be considered an applied mathematician.
+
+** My Problem with Web Development
+
+The native web platform is flawed at its core. There are no reasonable principle-based building blocks to create websites that are bigger than a single /document/ [[https://developer.mozilla.org/en-US/docs/Web/API/Web_components][despite attempts to create them]], it starts getting complicated when building websites with multiple documents, /then plain or static websites/, and when you arrive to the "web application" level of complexity, you have piles of aberrations on top of each other, that somehow work when highly skilled and expensive developers build and maintain them.
+
+Web development is mostly about learning and working with someone's else arbitrary ideas to build someone's—often also arbitrary—idea of a product or service.
+
+The classic and desperate discussion about the proliferation of frameworks is a symptom of this lack of fundamental ideas of how to do websites, so everyone is coming up with their solution based on their taste and preferences, instead the application of sound theories.
+
+It's blasphemy to create a website from scratch with vanilla HTML/CSS/JS nowadays, yet, that's one of the most reasonable ways I would consider building a website until something better comes along. At least those languages are /the given/ and not a random abstraction.
+
+** My Problem with Design
+
+Most of the design practices that I have seen have more to do with what /somebody else/ considers /cool/. That /somebody else/ can be the client, or can be the designer himself, and /cool/ is usually what /other/ designers are doing, copying other designers, which also copy the ones that are original, usually wrong, but original nonetheless.
+
+The lack of objectivity in design makes it highly unpredictable to me: coming with a solution to something, putting it in a black box for the client, and then poke it until the client /feels/ right about it.
+
+Thankfully I have little professional design experience. We can argue that that's also the reason for my thoughts about the design industry, but unfortunately I didn't have the strength in me to go through that struggle.
+
+Although, it's highly likely that my issues with the design industry are because of the way I am, how I work, and not the industry itself. So my problem with design is a problem in me in that context; I don't belong to it.
+
+But there is an area in design, where I feel at home, and that I consider almost totally objective, and that's *typography*. It requires precision, taste, and any arbitrary idea would render text unreadable, which is something that can be directly perceived, making it almost unquestionable. Good typography can be evidently proven by how readable something is, and if it reflects the content in an aesthetically pleasing way, which tends to be the typographers way, as most people ignore those details unless the errors are too obvious.
+
+** A Desire for an Objective and Principled Discipline
+
+Having been a web developer for over a decade, I have had a fair share of exposure to programming, even if the kind of programming in web development is questionable. I've explored other ideas in the field as entertainment, like looking at the neighbor's greener backyard, and have realized how more solid programming can be, from game developers working on low level programming for performance, to scientists processing huge amounts of data from the real world proving things to be objectively true. Even language designers, inadvertently exploring and trying to solve epistemological problems from a linguistic perspective.
+
+Discovering functional programming through Microsoft's Channel 9 series had a huge impact on realizing what's out there in the vast world of computing. I especially remember being fascinated with [[https://en.wikipedia.org/wiki/Erik_Meijer_(computer_scientist)][Erik Meijer]] videos. Functional programming made me think of computing in a more mathematical way, not about changing stuff around to compute things (my working memory capacity is abnormally low), but to define what things are (my conceptual capacity is pretty good.)
+
+Exploring functional programming exposed me to mathematics and more fundamental ideas, like lambda calculus being (at least one of) its foundation, and logic gates which are found all the way down to the transistor level of computers. The fact that you can do all of computing with the NAND gate was astonishing, or the corollary that anything that behaves at least like a NAND gate can be used to compute.
+
+The smartest people I have seen claim that computer science is not real science, and computer engineering is not real engineering, yet I find in them the closest discipline where objectivity and principles really matter. Not everything follows those virtues that I want, but the ideas that do follow, are the ones that win.
+
+*** Becoming a Real Programmer
+
+So at the end, I decided to become a real programmer. A programmer that works from a fundamental level and does work based on first principles. Someone that can challenge the status quo with new ideas, and still have a chance to win by proving them correct. So far I have three languages on sight that could allow me to use my mind to its fullest:
+
+- Haskell: as a pure functional language, so I can be sure that my conceptual framework of the ideas I work on are solid under a functional context.
+
+- Lisp (Scheme): A non-pure functional language flexible enough to explore ideas that could be hard to express in a stricter language like Haskell. Just for exploring ideas and not for production code, unless I get a good reason for changing my mind later on.
+
+- C: At the end of the day, programming needs to be executed in hardware, and C provides a pretty simple but powerful layer to work closer to the metal. Plus, I have interests in embedded programming, so knowing C would be very fruitful.
+
+*** Becoming a Typographer
+
+My passion for aesthetics can't disappear, and it mustn't. Typography, at least at the moment, is the only design-related discipline where I can be happy and do a good job.
+
+There is not much else to say, anything written that I produce, will be as readable as possible and will have a tasteful look.
+
+I'm working on producing properly formatted PDFs of the classics in literature. And some day soon I'll share all the stylesheets I've build that I use to fix website's typography and to remove unnecessary visual elements.
+
+** A Brighter Future
+
+/Programmer & Typographer/ it is. Working on being a programmer with a solid mathematical foundation, while producing things that are aesthetically proper. Anything within that category is part of my purpose in life, as a constant activity, instead of a destination, that's *the* way of living.
