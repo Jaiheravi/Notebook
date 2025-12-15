@@ -3,8 +3,6 @@
 #+filetags:   :personal:
 #+identifier: 20251215T112345
 
-* What do I do
-
 It's difficult to assign a title oneself when there are different things that one has done, is doing, and wants to do.
 
 In the past, If I has to assign a title based on the things that I have done professionally, I'd be a web developer; even though aesthetic work has been part of it, I wouldn't call myself a designer before.
